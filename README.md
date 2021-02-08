@@ -1,10 +1,13 @@
 # Personal Mobile Coach
-![](images/logo.png)
+![](images/launchApp.gif)
 
 This project was done under the Haute école d'ingénierie et de gestion du canton de Vaud.
 
+## Preview
 
-The project :
+<img src="images/launchApp.gif" width="300" height="600">
+
+## The project :
 
    * Manually trained model is converted and put locally into the app. 
 
@@ -23,7 +26,7 @@ The project :
    * Note that the model is optimized for real-time prediction over short distance but the this system is not done so is currently replaced by the arrival time prediction. (Thats why the prediction my take a while)
    
   
-Usefull commands :  
+## Usefull commands :  
    
    `npm install`
    
