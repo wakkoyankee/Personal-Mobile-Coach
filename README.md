@@ -1,5 +1,5 @@
 # Personal Mobile Coach
-![](images/launchApp.gif)
+![](images/logo.png)
 
 This project was done under the Haute école d'ingénierie et de gestion du canton de Vaud.
 
