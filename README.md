@@ -5,7 +5,8 @@ This project was done under the Haute école d'ingénierie et de gestion du cant
 
 ## Preview
 
-<img src="images/launchApp.gif" width="300" height="600">
+<img src="images/launchApp.gif" hspace="20" width="300" height="600"> <img src="images/4km-run.gif" width="300" height="600">
+
 
 ## The project :
 
