@@ -1,7 +1,7 @@
 # Personal Mobile Coach
 ![](images/logo.png)
 
-This project was done under the Haute école d'ingénierie et de gestion du canton de Vaud.
+This project was done under the Haute Ecole d'Ingénierie et de Gestion du canton de Vaud (HEIG-VD).
 
 ## Preview
 
