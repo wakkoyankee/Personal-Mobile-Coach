@@ -1,8 +1,10 @@
 # Personal Mobile Coach
-
+![](images/logo.png)
 
 This project was done under the Haute école d'ingénierie et de gestion du canton de Vaud.
 
+
+The project :
 
    * Manually trained model is converted and put locally into the app. 
 
